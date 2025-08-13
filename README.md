@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Zengjie Hu (胡增杰)
 
 
-🎓 **Education**: M.S. in [Peking University](https://www.pku.edu.cn/)  
+🎓 **Education**: Master's Student at [Peking University](https://www.pku.edu.cn/)  
 🌍 **Based in**: Shanghai, China  
 💼 **Researcher** at [Shanghai AI Laboratory](https://www.shlab.org.cn/)  
 🔬 **Focus**: Multimodal Large Language Models (MLLM) & Reasoning  
